@@ -1,6 +1,7 @@
-category: css
-lectures: Cho
+category: css new2
+lectures: Kim
 related:
 
 - html
 - xcss
+- css1
